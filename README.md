@@ -37,6 +37,7 @@ the first step is to run [elasticsearch-5.5.3](https://www.elastic.co/downloads/
 ```bash
 python elasticsearch_index_data.py
 ```
+The elasticsearch interface code is from [nordlys](https://github.com/iai-group/nordlys).
 
 The second step is to train `MultiEm-RGCN` `phase II` with the default parameters:
 ```bash
