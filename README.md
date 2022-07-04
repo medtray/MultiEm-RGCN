@@ -19,7 +19,7 @@ We use `WikiTables` collection for evaluation.[`WikiTables` corpus](http://websa
 
 ## Training with MultiEm-RGCN
 
-Pre-trained graph embeddings and preprocessed data could be downloaded from this [Google Drive shared folder](https://drive.google.com/file/d/1cytoEki7nPompD0P4RQG199FvajUeWsP/view?usp=sharing).
+Pre-trained graph embeddings and preprocessed data could be downloaded from this [Google Drive shared folder](https://drive.google.com/file/d/1cytoEki7nPompD0P4RQG199FvajUeWsP/view?usp=sharing). Please uncompress the zip folder and add it inside the code folder.
 
 To train the embedding from scratch for `phase I` (preprocessed data is needed):
 ```bash
